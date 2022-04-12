@@ -6,9 +6,9 @@
 
 - 💻 Pretendo migrar para área de desenvolvimento Web  
 
-- 🇧🇷 Atualmente moro no Brasil
+- 🇧🇷  Atualmente moro no Brasil
 
-<div align="center">
+<div>
 <a href="https://github.com/bantheus">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantheus&layout=compact&langs_count=5&theme=dracula&card_width=300&locale=pt-br"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bantheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card_width=300&locale=pt-br"/>
@@ -25,8 +25,8 @@
 </div>
 
 
-<h2 align="center"> Contatos: </h2>
-<div align="center">
+<h2> Contatos: </h2>
+<div>
           
 <a href="mailto:matheuschmidt.b@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="#">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
