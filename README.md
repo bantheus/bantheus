@@ -1,16 +1,18 @@
 <h1 align="center"> Olá, me chamo Matheus 🐷 </h1>
 
 <div align="center">
+          
 🎒 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UTFPR
 💼 Atualmente trabalho na área de RH      
 💻 Pretendo migrar para área de desenvolvimento Web       
 🇧🇷 Atualmente moro no Brasil
+          
 </div>
 
-<div>
+<div align="center">
 <a href="https://github.com/bantheus">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantheus&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bantheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantheus&layout=compact&langs_count=7&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bantheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <h2 align="center"> Ferramentas e Tecnologias: </h2>
