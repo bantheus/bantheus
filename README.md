@@ -9,7 +9,7 @@
           
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bantheus)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bantheus&count_private=true)
 
 <div align="center">
 <a href="https://github.com/bantheus">
