@@ -1,19 +1,12 @@
-<h1 align="center"> Olá, me chamo Matheus 🐷 </h1>
-
-<div align="center">
-          
-🎒 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UTFPR
-💼 Atualmente trabalho na área de RH      
-💻 Pretendo migrar para área de desenvolvimento Web       
-🇧🇷 Atualmente moro no Brasil
-          
-</div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bantheus&count_private=true&show_icons=true&theme=synthwave&locale=pt-br&text_color="#ffffff"&layout=compact)
+<h1> Olá, me chamo Matheus 🐷 </h1>    
+- 🎒 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UTFPR
+- 💼 Atualmente trabalho na área de RH      
+- 💻 Pretendo migrar para área de desenvolvimento Web       
+- 🇧🇷 Atualmente moro no Brasil
 
 <div align="center">
 <a href="https://github.com/bantheus">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantheus&layout=compact&langs_count=7&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantheus&layout=compact&langs_count=5&theme=dracula&card_width=200"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bantheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
