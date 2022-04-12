@@ -9,7 +9,7 @@
           
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bantheus&count_private=true&show_icons=true&theme=synthwave&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bantheus&count_private=true&show_icons=true&theme=synthwave&locale=pt-br&text_color="#ffffff"&layout=compact)
 
 <div align="center">
 <a href="https://github.com/bantheus">
