@@ -1,7 +1,10 @@
 <h1> Olá, me chamo Matheus 🐷 </h1>    
 - 🎒 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UTFPR
+
 - 💼 Atualmente trabalho na área de RH      
-- 💻 Pretendo migrar para área de desenvolvimento Web       
+
+- 💻 Pretendo migrar para área de desenvolvimento Web  
+     
 - 🇧🇷 Atualmente moro no Brasil
 
 <div align="center">
