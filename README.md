@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5C85CA&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Schmidt;aspirante+em+desenvolvimento+Web!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=5C85CA&multiline=true&width=650&height=100&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Schmidt%2C;aspirante+em+desenvolvimento+Web!+%F0%9F%90%B7)](https://git.io/typing-svg)
 
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/bantheus">
