@@ -3,7 +3,7 @@
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/bantheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bantheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantheus&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantheus&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
   
 ### Ferramentas e tecnologias que utilizo:
