@@ -10,9 +10,6 @@
         <img height="200em"
           src="https://streak-stats.demolab.com/?user=Bantheus&locale=pt-BR&theme=tokyonight" alt="GitHub Stats" />
       </td>
-      <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bantheus&hide_progress=true&locale=pt-BR&theme=tokyonight&langs_count=6"/>
-      </td>
     </tr>
   </thead>
 </table>
