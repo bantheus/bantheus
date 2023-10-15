@@ -2,9 +2,6 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/ijBRn5Ppei7l97g3GM/giphy.gif"  />
 
-###
-
-<br clear="both">
 
 <img align="left" height="150" src="https://media.giphy.com/media/mnFNB5IIabdgVve3zb/giphy.gif"  />
 
