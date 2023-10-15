@@ -7,7 +7,7 @@
 
 ###
 
-<h1 align="left">hey there 👋 I'm Matheus,<br>full stack developer 💻</h1>
+<h1 align="left">hey there 👋 I'm Matheus,<br>full stack developer 💻 from 🇧🇷</h1>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨🏻‍💻   About Me</h3>
 
 ###
 
