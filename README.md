@@ -93,6 +93,5 @@
 
 ###
 
-<div align="center">
-  <img height="300" width="80%" src="https://media.giphy.com/media/sJvz8Qnfly3BOuotGx/giphy-downsized-large.gif"  />
-</div>
+[![An image of @bantheus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bantheus)](https://holopin.io/@bantheus)
+
