@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as full stack developer at @Ade!<br>- 📚 I'm currently learning Golang and Docker<br>- ⚡ In my free time I enjoy playing League of Legends (LoL) and reading comic books (HQ)<br>- ✨ Fun Fact: My nickname "Pepo" is a loving pet name created by my girlfriend! 🐷</p>
+<p align="left">- 🔭 I’m working as full stack developer at @Ade!<br>- 📚 I'm currently utilizing and improving my skills in Next.js and Node.js<br>- ⚡ In my free time I enjoy playing League of Legends (LoL) and reading comic books (HQ)<br>- ✨ Fun Fact: My nickname "Pepo" is a loving pet name created by my girlfriend! 🐷</p>
 
 ###
 
