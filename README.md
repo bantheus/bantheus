@@ -7,7 +7,7 @@
 
 ###
 
-<h1 align="left">hey there 👋 I'm Matheus,<br>full stack developer 💻 from 🇧🇷</h1>
+<h1 align="left">hey there 👋 I'm Matheus,<br>full stack developer from 🇧🇷</h1>
 
 ###
 
