@@ -1,10 +1,7 @@
-<div align="left">
-  <img height="200" src="https://utfs.io/f/3da3f0c3-99a4-402a-b164-665a04e7377a-nm33wo.png"  />
-</div>
-
 ###
+<h1 align="left">Hi 🤘 I'm Matheus, aka Bantheus, full stack developer.</h1>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/matheuschmidtb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
