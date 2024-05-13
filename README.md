@@ -35,7 +35,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="6" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
@@ -104,9 +104,9 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bantheus&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=bantheus&hide_title=false&hide_rank=true&show_icons=true&card_width=300&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=bantheus&locale=pt-br&mode=weekly&theme=dracula&hide_border=true&card_width=300&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bantheus&locale=pt-br&hide_title=false&layout=compact&card_width=250&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bantheus&hide_title=false&hide_rank=true&show_icons=true&card_width=280&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=bantheus&locale=pt-br&mode=weekly&theme=dracula&hide_border=true&card_width=360&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
