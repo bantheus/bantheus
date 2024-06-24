@@ -22,7 +22,10 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as full stack developer at @Conelly<br>- 📚 I'm currently utilizing and improving my skills in Next.js and Node.js<br>- ⚡ In my free time I like to play video games and read comic books.<br>- ✨ Fun fact: My nickname "Pepo" is an affectionate nickname created by my girlfriend! 🐷</p>
+- 🌱 I’m currently learning clean architecture.
+- 👨‍💻 I'm working as full stack developer at [**@conelly**](https://conelly.com.br/).
+- 🎮 In my free time I like to play games, watch movies and series, and listen to music.
+- ✨ Fun fact: my nickname "Pepo" is an affectionate nickname created by my girlfriend! 🐷
 
 ###
 
