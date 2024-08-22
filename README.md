@@ -1,6 +1,6 @@
 ###
 
-<h1 align="left">Hi 🤘 I'm Matheus, aka Bantheus, full stack developer.</h1>
+<h1 align="left">Hi 🤘 I'm Matheus, aka Bantheus, a Full Stack Developer.</h1>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/matheuschmidtb/" target="_blank">
@@ -13,15 +13,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-- 🌱 I’m currently learning clean architecture.
-- 👨‍💻 I'm working as full stack developer at [**@conelly**](https://conelly.com.br/).
-- 🎓 I’m graduated in Systems Development & Analysis from UTFPR.
-- 🎮 In my free time I like to play games, watch movies and series, and listen to music.
-- ✨ Fun fact: my nickname "Pepo" is an affectionate nickname created by my girlfriend! 🐷
+- 🌱 I'm currently learning Clean Architecture.
+- 👨‍💻 I'm working as a Full Stack Developer at [**@conelly**](https://conelly.com.br/).
+- 🎓 I'm a graduate in Systems Development and Analysis from UTFPR.
+- 🎮 In my free time, I like to play games, watch movies and series, and listen to music.
+- ✨ Fun fact: my nickname, "Pepo," is an affectionate name created by my girlfriend! 🐷
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
