@@ -18,6 +18,7 @@
 ###
 
 - 🌱 I’m currently learning clean architecture.
+- 🎓 I’m graduated in Systems Development & Analysis from UTFPR.
 - 👨‍💻 I'm working as full stack developer at [**@conelly**](https://conelly.com.br/).
 - 🎮 In my free time I like to play games, watch movies and series, and listen to music.
 - ✨ Fun fact: my nickname "Pepo" is an affectionate nickname created by my girlfriend! 🐷
