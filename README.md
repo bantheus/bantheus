@@ -11,11 +11,17 @@
   </a>
 </div>
 
+<br clear="both">
+
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE2NG8yYWZic256cTJ5eWJvZ3RwYWV3MmNtMm40ZXB2cGI0ZGhmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
+
 ###
 
 <h3 align="left">👩‍💻 About Me</h3>
 
 ###
+
+<p align="left">
 
 - 🌱 I'm currently learning Clean Architecture and Go.
 - 👨‍💻 I'm working as a Full Stack Developer at [**@conelly**](https://conelly.com.br/).
@@ -23,7 +29,10 @@
 - 🎮 In my free time, I like to play games, watch movies and series, and listen to music.
 - ✨ Fun fact: my nickname, "Pepo," is an affectionate name created by my girlfriend! 🐷
 
+</p>
+
 ###
+
 
 <h3 align="left">🛠 Tech Stacks</h3>
 
