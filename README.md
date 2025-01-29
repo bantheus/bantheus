@@ -75,13 +75,13 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 My Stats </h3>
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bantheus&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=bantheus&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3&card_width=360" height="200" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=bantheus&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3&card_width=360" height="200" alt="streak graph"  /> -->
 </div>
 
 ###
