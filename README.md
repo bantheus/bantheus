@@ -1,6 +1,6 @@
 ###
 
-<h1 align="left">Hi 🤘 I'm Matheus, aka Bantheus, a Full Stack Developer.</h1>
+<h1 align="left">Hi 🤘 I'm Matheus, aka Pepo, a Full Stack Developer.</h1>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/matheuschmidtb/" target="_blank">
