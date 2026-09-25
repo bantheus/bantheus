@@ -103,15 +103,4 @@
 
 ###
 
-<h3 align="left">🔥 Minhas estatísticas</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bantheus&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=7&theme=dracula&hide_border=false&order=2" height="200" alt="gráfico de linguagens"  />
-<!--   <img src="https://streak-stats.demolab.com?user=bantheus&locale=pt_BR&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3&card_width=360" height="200" alt="gráfico de sequência"  /> -->
-</div>
-
-###
-
 [![Imagem das badges Holopin de @bantheus, com link para o perfil completo no Holopin](https://holopin.me/bantheus)](https://holopin.io/@bantheus)
